@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyButtons</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Value to send with event - param_1</string>
+    <string name="button_send">Track Event</string>
+    <string name="title_activity_main">MainActivity2</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="event_two_message">How much rev to track?</string>
+    <string name="button_two_track">Track Event 2</string>
+    <string name="title_activity_display_revenue_tracked">DisplayRevenueTrackedActivity</string>
+
+</resources>
